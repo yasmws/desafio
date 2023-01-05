@@ -1,1 +1,3 @@
-# Meu nome eh Yasmin Soares, prazer em conhecer você
+# Meu nome é Yasmin Soares
+
+# Prazer em conhecer [    ]
